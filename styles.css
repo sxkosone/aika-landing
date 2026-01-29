@@ -31,6 +31,14 @@ h1 {
   font-size: 1.125rem;
   color: #a0a0a0;
   line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.tagline {
+  font-size: 1.25rem;
+  font-weight: 600;
+  font-style: italic;
+  color: #ffffff;
   margin-bottom: 2.5rem;
 }
 
