@@ -1,2 +1,2 @@
 # aika-landing
-Aika landing page https://susannakosonen.com/aika-landing/
+Aika landing page http://aikatravel.com/
