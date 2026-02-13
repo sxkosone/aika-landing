@@ -1,0 +1,32 @@
+:root {
+  /* Colors */
+  --color-bg:          #f7f4ef;  /* Warm Off-White */
+  --color-text:        #2b2f33;  /* Deep Charcoal */
+  --color-slate:       #8f9aa3;  /* Muted Slate */
+  --color-green:       #9aa88f;  /* Soft Natural Green */
+  --color-clay:        #c4a484;  /* Warm Clay */
+
+  /* Typography - Families */
+  --font-heading:  'Source Serif 4', Georgia, serif;
+  --font-body:     'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  /* Typography - Sizes */
+  --text-xl:   3rem;     /* h1 / hero heading */
+  --text-lg:   1.5rem;   /* tagline */
+  --text-md:   1.125rem; /* body / description */
+  --text-sm:   1rem;     /* inputs, buttons */
+
+  /* Typography - Weights */
+  --weight-regular: 400;
+  --weight-medium:  500;
+  --weight-bold:    700;
+
+  /* Spacing */
+  --space-xs:  0.5rem;
+  --space-sm:  1rem;
+  --space-md:  1.5rem;
+  --space-lg:  2.5rem;
+
+  /* Radii */
+  --radius:    8px;
+}
